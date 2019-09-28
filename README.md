@@ -1,7 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Breaking Bad Catálogo
 Aplicação React que consome e mostra dados da [The Breaking Bad API](https://breakingbadapi.com/).
+
+## Demo
+https://tamirisapbonicenha.github.io/react-breaking-bad-API/ :)
 
 ## Tecnologias
 * React
@@ -38,4 +39,4 @@ Builda a aplicação e cria a pasta `build` pronta para deploy
 
 ### `yarn deploy`
 
-Faz o deploy da aplicação em https://tamirisapbonicenha.github.io/react-breaking-bad-API/
+Faz o deploy da aplicação.
